@@ -1,0 +1,51 @@
+#sign-in-box {
+    background-color: #F0F0F0;
+    margin-top: 200px;
+    margin-left: 450px;
+    width: 500px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#username {
+    margin: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 200px;
+}
+
+#password {
+    margin: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 200px;
+}
+
+#btn {
+    margin: 16px;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: #7E7E7E;
+}
+
+button {
+    background-color: #9DD8D4;
+    color: white;
+    width: 100px;
+    border-style: none;
+}
+
+body {
+    background-color: #D47677;
+}
+
+#checkbox {
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
